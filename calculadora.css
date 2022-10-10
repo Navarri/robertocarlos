@@ -1,0 +1,25 @@
+* {
+   font-family: 'Fraunces', serif;
+ }
+ 
+ body {
+   background-color: #ffffff;
+ }
+ 
+ .container {
+   color: aliceblue;
+   text-align: center;
+   margin: auto;
+   width: 550px;
+   border-radius: 32px;
+   background-color:#ff0026;
+ }
+.botones {
+   cursor: pointer;
+   margin: 5px;
+   padding: 0;
+   border-radius: 32px;
+   border: none;
+   background-color: #ff0026;
+
+}
